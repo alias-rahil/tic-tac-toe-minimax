@@ -124,6 +124,7 @@ def clear(os):
     return None
 
 
+clear(os)
 moves = [i + 1 for i in range(9)]
 while True:
     print("""
